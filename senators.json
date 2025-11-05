@@ -1,0 +1,162 @@
+[ {
+  "name" : "JESSE BJORKMAN",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=bjk",
+  "otherinfo" : "Address: State Capitol Room 427, Juneau AK, 99801 | Phone: 800-964-5733 | Email: Senator.Jesse.Bjorkman@akleg.gov"
+}, {
+  "name" : "MATT CLAMAN",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=cla",
+  "otherinfo" : "Address: State Capitol Room 429, Juneau AK, 99801 | Phone: 888-465-4919 | Email: Senator.Matt.Claman@akleg.gov"
+}, {
+  "name" : "MIKE CRONK",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=crn",
+  "otherinfo" : "Address: State Capitol Room 419, Juneau AK, 99801 | Phone: 800-491-4527 | Email: Senator.Mike.Cronk@akleg.gov"
+}, {
+  "name" : "FORREST DUNBAR",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=dnb",
+  "otherinfo" : "Address: State Capitol Room 125, Juneau AK, 99801 | Phone: 800-770-3822 | Email: Senator.Forrest.Dunbar@akleg.gov"
+}, {
+  "name" : "CATHY GIESSEL",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=gie",
+  "otherinfo" : "Address: State Capitol Room 121, Juneau AK, 99801 | Phone: 800-892-4843 | Email: Senator.Cathy.Giessel@akleg.gov"
+}, {
+  "name" : "ELVI GRAY-JACKSON",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=gra",
+  "otherinfo" : "Address: State Capitol Room 30, Juneau AK, 99801 | Phone: 800-331-4930 | Email: Senator.Elvi.Gray-Jackson@akleg.gov"
+}, {
+  "name" : "LYMAN HOFFMAN",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=hof",
+  "otherinfo" : "Address: State Capitol Room 518, Juneau AK, 99801 | Phone: 866-465-4453 | Email: Senator.Lyman.Hoffman@akleg.gov"
+}, {
+  "name" : "SHELLEY HUGHES",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=hus",
+  "otherinfo" : "Address: State Capitol Room 11, Juneau AK, 99801 | Phone: 800-565-3743 | Email: Senator.Shelley.Hughes@akleg.gov"
+}, {
+  "name" : "JAMES KAUFMAN",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=kau",
+  "otherinfo" : "Address: State Capitol Room 510, Juneau AK, 99801 | Phone: 800-478-4950 | Email: Senator.James.Kaufman@akleg.gov"
+}, {
+  "name" : "SCOTT KAWASAKI",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=kaw",
+  "otherinfo" : "Address: State Capitol Room 119, Juneau AK, 99801 | Phone: 866-465-3466 | Email: Senator.Scott.Kawasaki@akleg.gov"
+}, {
+  "name" : "JESSE KIEHL",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=kie",
+  "otherinfo" : "Address: State Capitol Room 514, Juneau AK, 99801 | Phone: 855-465-4947 | Email: Senator.Jesse.Kiehl@akleg.gov"
+}, {
+  "name" : "KELLY MERRICK",
+  "title" : "Senator",
+  "party" : "Republican",
+  "profile" : "Majority Whip",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=mrr",
+  "otherinfo" : "Address: State Capitol Room 504, Juneau AK, 99801 | Phone: 800-861-5688 | Email: Senator.Kelly.Merrick@akleg.gov"
+}, {
+  "name" : "ROBERT MYERS",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=mye",
+  "otherinfo" : "Address: State Capitol Room 7, Juneau AK, 99801 | Phone: 877-465-3719 | Email: Senator.Robert.Myers@akleg.gov"
+}, {
+  "name" : "DONNY OLSON",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=ols",
+  "otherinfo" : "Address: State Capitol Room 508, Juneau AK, 99801 | Phone: 800-597-3707 | Email: Senator.Donald.Olson@akleg.gov"
+}, {
+  "name" : "MIKE SHOWER",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=sho",
+  "otherinfo" : "Address: State Capitol Room 9, Juneau AK, 99801 | Phone: 877-465-6601 | Email: Senator.Mike.Shower@akleg.gov"
+}, {
+  "name" : "BERT STEDMAN",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=smn",
+  "otherinfo" : "Address: State Capitol Room 516, Juneau AK, 99801 | Phone: 877-463-3873 | Email: Senator.Bert.Stedman@akleg.gov"
+}, {
+  "name" : "GARY STEVENS",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=stg",
+  "otherinfo" : "Address: State Capitol Room 111, Juneau AK, 99801 | Phone: 800-821-4925 | Email: Senator.Gary.Stevens@akleg.gov"
+}, {
+  "name" : "LOKI TOBIN",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=tob",
+  "otherinfo" : "Address: State Capitol Room 115, Juneau AK, 99801 | Phone: 888-330-3704 | Email: Senator.Loki.Tobin@akleg.gov"
+}, {
+  "name" : "BILL WIELECHOWSKI",
+  "title" : "Senator",
+  "party" : "Democrat",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=wie",
+  "otherinfo" : "Address: State Capitol Room 103, Juneau AK, 99801 | Phone: 800-550-2435 | Email: Senator.Bill.Wielechowski@akleg.gov"
+}, {
+  "name" : "ROBERT YUNDT",
+  "title" : "Senator",
+  "party" : "Republican",
+  "type" : "Juneau",
+  "country" : "USA",
+  "url" : "https://akleg.gov/legislator.php?id=yun",
+  "otherinfo" : "Address: State Capitol Room 417, Juneau AK, 99801 | Phone: 800-862-3878 | Email: Senator.Robert.Yundt@akleg.gov"
+} ]
