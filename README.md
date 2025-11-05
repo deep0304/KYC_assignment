@@ -143,7 +143,7 @@ The scraper uses waits to ensure reliable page load execution.
 |----------|------------|
 Chrome not found in WSL | Installed Chrome inside WSL / set binary path |
 Inconsistent formatting | Used regex text normalization |
-Missing DOB on site | Returned `null` by design |
+
 
 ---
 
@@ -160,6 +160,7 @@ This scraper:
 - Normalizes contact information
 - Outputs a clean and consistent JSON dataset
 - Uses industry-standard automation tooling
+
 
 
 
